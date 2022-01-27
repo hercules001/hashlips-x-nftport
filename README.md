@@ -1,4 +1,4 @@
-# Source Code of Creating an ENTIRE NFT Collection (10,000+) & MINT In Under 1 Hour Without Coding Knowledge
+# Source Code of Randomizing an entire NFT Collection (Multiple Images) & Mint without Coding knowledge.
 
 
 Base code is from [hashlips_art_engine](https://github.com/HashLips/hashlips_art_engine)
@@ -50,5 +50,3 @@ To fix these issues, I've updated the code to include a timeout that will allow 
   - `npm install`
 - Copy your image layers into the `layers` folder.
 - Use the `src/config.js` file to set up your layers and NFT information.
-
-## Reference the [video](https://youtu.be/AaCgydeMu64) for more details. All commands to upload and mint are the same. 
